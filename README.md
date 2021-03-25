@@ -6,3 +6,5 @@
 我用的是vscode编辑器，texlive 2020套装，没有安装的同学可以查看[LaTeX 安装 & 宏包升级 & 入门](https://blog.csdn.net/Rank_fxl/article/details/113510466)
 
 xelatex编译两次
+
+欢迎交流
